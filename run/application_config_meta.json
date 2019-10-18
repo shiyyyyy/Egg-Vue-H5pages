@@ -1,0 +1,380 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js"
+  },
+  "view": {
+    "cache": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
+    "root": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultExtension": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "cluster": {
+    "listen": {
+      "port": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+      "path": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "hostname": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+      "runInNewContext": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+    },
+    "doctype": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "viewEngine": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "dir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "encoding": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "env": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "level": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "outputJSON": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "buffer": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "appLogName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "coreLogName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "agentLogName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "errorLogName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "errMsg": {
+    "status": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "msg": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "dir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "maxAge": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.local.js",
+    "dynamic": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "keys": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+  "middleware": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+  "logrotator": {
+    "filesRotateByHour": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+    "hourDelimiter": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "queryName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+      "bodyName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "type": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "useSession": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "cookieName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "sessionName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "headerName": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.default.js",
+      "value": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.local.js",
+    "protocolWhiteList": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "hsts": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.local.js",
+      "maxAge": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "policy": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "checkAddress": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.local.js",
+    "ignoreDirs": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.local.js",
+    "fastReady": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/config/config.local.js",
+    "prefix": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js",
+    "staticHost": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+      "file": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "files": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js"
+    }
+  },
+  "cors": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-cors@2.2.0@egg-cors/config/config.default.js",
+  "webpack": {
+    "port": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js",
+      "match": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js"
+    },
+    "webpackConfigList": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js"
+  },
+  "env": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "name": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "proxy": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "maxProxyCount": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "version": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "description": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "scripts": {
+      "start": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "stop": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "dev": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "start:test210": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "start:test118": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "start:prod": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "debug": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "clean": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "build": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "build:test210": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "test": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "test-local": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "cov": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "lint": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "ci": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "autod": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "ali-oss": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "axios": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "cross-env": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-alinode": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-bin": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-cors": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-logger": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-router-plus": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-validate": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "element-ui": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "extend": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "lodash": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "mint-ui": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "mockjs": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "moment": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "vue": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "vue-router": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "vuex": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "vuex-router-sync": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "autoprefixer": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "babel-plugin-syntax-dynamic-import": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "babel-plugin-transform-object-assign": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "babel-plugin-transform-object-rest-spread": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "babel-preset-env": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "easywebpack-cli": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "easywebpack-vue": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-logview": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-webpack": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "eslint": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "ip": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "less": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "less-loader": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "node-sass": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "sass-loader": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "vconsole": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "url": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "author": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "license": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "homepage": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "webpack": {
+      "loaders": {
+        "scss": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+        "less": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "HOME": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "rundir": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "notFound": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "sitefile": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "middlewares": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "httpClient": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "encoding": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "formLimit": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "textLimit": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "strict": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "depth": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "onerror": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "maxSockets": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "maxSockets": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "logging": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "serverTimeout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/node_modules/_egg@2.24.0@egg/config/config.default.js"
+}

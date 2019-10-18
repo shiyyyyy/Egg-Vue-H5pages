@@ -1,0 +1,72 @@
+2019-10-17 16:13:30,455 INFO 4258 [egg:logger] init all loggers with options: {"dir":"/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ConsumStageWeb-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-17 16:13:30,513 INFO 4258 [egg-multipart] stream mode enable
+2019-10-17 16:13:30,607 INFO 4258 [egg-static] starting static serve /public/ -> /Users/gq/Desktop/未命名文件夹/ConsumStageWeb/public
+2019-10-17 16:13:30,612 INFO 4258 [egg-security] use csrf middleware
+2019-10-17 16:13:30,613 INFO 4258 [egg-security] use methodnoallow middleware
+2019-10-17 16:13:30,614 INFO 4258 [egg-security] use noopen middleware
+2019-10-17 16:13:30,615 INFO 4258 [egg-security] use nosniff middleware
+2019-10-17 16:13:30,616 INFO 4258 [egg-security] use xssProtection middleware
+2019-10-17 16:13:30,617 INFO 4258 [egg-security] use dta middleware
+2019-10-17 16:13:30,617 INFO 4258 [egg-security] compose 6 middlewares into one security middleware
+2019-10-17 16:13:30,651 INFO 4258 [egg:core] dump config after load, 15ms
+2019-10-17 16:13:30,737 INFO 4258 [egg-watcher:application] watcher start success
+2019-10-17 16:13:30,755 INFO 4258 [egg:core] dump config after ready, 13ms
+2019-10-17 16:13:50,866 INFO 4292 [egg:logger] init all loggers with options: {"dir":"/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ConsumStageWeb-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-17 16:13:50,925 INFO 4292 [egg-multipart] stream mode enable
+2019-10-17 16:13:51,025 INFO 4292 [egg-static] starting static serve /public/ -> /Users/gq/Desktop/未命名文件夹/ConsumStageWeb/public
+2019-10-17 16:13:51,030 INFO 4292 [egg-security] use csrf middleware
+2019-10-17 16:13:51,032 INFO 4292 [egg-security] use methodnoallow middleware
+2019-10-17 16:13:51,033 INFO 4292 [egg-security] use noopen middleware
+2019-10-17 16:13:51,034 INFO 4292 [egg-security] use nosniff middleware
+2019-10-17 16:13:51,034 INFO 4292 [egg-security] use xssProtection middleware
+2019-10-17 16:13:51,035 INFO 4292 [egg-security] use dta middleware
+2019-10-17 16:13:51,035 INFO 4292 [egg-security] compose 6 middlewares into one security middleware
+2019-10-17 16:13:51,070 INFO 4292 [egg:core] dump config after load, 16ms
+2019-10-17 16:13:51,162 INFO 4292 [egg-watcher:application] watcher start success
+2019-10-17 16:13:51,180 INFO 4292 [egg:core] dump config after ready, 13ms
+2019-10-17 16:19:45,033 INFO 4556 [egg:logger] init all loggers with options: {"dir":"/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ConsumStageWeb-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-17 16:19:45,103 INFO 4556 [egg-multipart] stream mode enable
+2019-10-17 16:19:45,221 INFO 4556 [egg-static] starting static serve /public/ -> /Users/gq/Desktop/未命名文件夹/ConsumStageWeb/public
+2019-10-17 16:19:45,232 INFO 4556 [egg-security] use csrf middleware
+2019-10-17 16:19:45,236 INFO 4556 [egg-security] use methodnoallow middleware
+2019-10-17 16:19:45,237 INFO 4556 [egg-security] use noopen middleware
+2019-10-17 16:19:45,239 INFO 4556 [egg-security] use nosniff middleware
+2019-10-17 16:19:45,240 INFO 4556 [egg-security] use xssProtection middleware
+2019-10-17 16:19:45,241 INFO 4556 [egg-security] use xframe middleware
+2019-10-17 16:19:45,241 INFO 4556 [egg-security] use dta middleware
+2019-10-17 16:19:45,242 INFO 4556 [egg-security] compose 7 middlewares into one security middleware
+2019-10-17 16:19:45,279 INFO 4556 [egg:core] dump config after load, 12ms
+2019-10-17 16:19:45,411 INFO 4556 [egg-watcher:application] watcher start success
+2019-10-17 16:19:45,431 INFO 4556 [egg:core] dump config after ready, 12ms
+2019-10-17 16:43:17,990 INFO 4916 [egg:logger] init all loggers with options: {"dir":"/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ConsumStageWeb-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-17 16:43:18,019 INFO 4916 [egg-multipart] stream mode enable
+2019-10-17 16:43:19,046 INFO 4916 [egg-static] starting static serve /public/ -> /Users/gq/Desktop/未命名文件夹/ConsumStageWeb/public
+2019-10-17 16:43:19,057 INFO 4916 [egg-security] use csrf middleware
+2019-10-17 16:43:19,063 INFO 4916 [egg-security] use methodnoallow middleware
+2019-10-17 16:43:19,067 INFO 4916 [egg-security] use noopen middleware
+2019-10-17 16:43:19,069 INFO 4916 [egg-security] use nosniff middleware
+2019-10-17 16:43:19,075 INFO 4916 [egg-security] use xssProtection middleware
+2019-10-17 16:43:19,076 INFO 4916 [egg-security] use dta middleware
+2019-10-17 16:43:19,076 INFO 4916 [egg-security] compose 6 middlewares into one security middleware
+2019-10-17 16:43:19,126 INFO 4916 [egg:core] dump config after load, 6ms
+2019-10-17 16:43:19,181 INFO 4916 [egg-watcher:application] watcher start success
+2019-10-17 16:43:19,193 INFO 4916 [egg:core] dump config after ready, 9ms
+2019-10-18 08:36:15,134 INFO 775 [egg:logger] init all loggers with options: {"dir":"/Users/gq/Desktop/未命名文件夹/ConsumStageWeb/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"ConsumStageWeb-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 08:36:15,186 INFO 775 [egg-multipart] stream mode enable
+2019-10-18 08:36:16,268 INFO 775 [egg-static] starting static serve /public/ -> /Users/gq/Desktop/未命名文件夹/ConsumStageWeb/public
+2019-10-18 08:36:16,286 INFO 775 [egg-security] use csrf middleware
+2019-10-18 08:36:16,293 INFO 775 [egg-security] use methodnoallow middleware
+2019-10-18 08:36:16,295 INFO 775 [egg-security] use noopen middleware
+2019-10-18 08:36:16,297 INFO 775 [egg-security] use nosniff middleware
+2019-10-18 08:36:16,303 INFO 775 [egg-security] use xssProtection middleware
+2019-10-18 08:36:16,304 INFO 775 [egg-security] use dta middleware
+2019-10-18 08:36:16,304 INFO 775 [egg-security] compose 6 middlewares into one security middleware
+2019-10-18 08:36:16,352 INFO 775 [egg:core] dump config after load, 14ms
+2019-10-18 08:36:16,462 INFO 775 [egg-watcher:application] watcher start success
+2019-10-18 08:36:16,568 INFO 775 [egg:core] dump config after ready, 99ms
+2019-10-18 09:00:00,088 INFO 775 [egg-logrotator] rotate files success by DayRotator, files []
+2019-10-18 10:00:00,080 INFO 775 [egg-logrotator] rotate files success by DayRotator, files []
+2019-10-18 11:00:00,083 INFO 775 [egg-logrotator] rotate files success by DayRotator, files []
+2019-10-18 12:00:00,081 INFO 775 [egg-logrotator] rotate files success by DayRotator, files []
+2019-10-18 13:00:00,077 INFO 775 [egg-logrotator] rotate files success by DayRotator, files []
+2019-10-18 14:00:00,086 INFO 775 [egg-logrotator] rotate files success by DayRotator, files []

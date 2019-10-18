@@ -1,0 +1,3 @@
+2019-10-18 08:37:08,611 ERROR 775 [-/192.168.50.89/-/24ms GET /] [controller.home.home] php接口出错，出错接口：{"url":"/index/index","serverENV":"p"}, 接口参数：{}, 错误信息：TypeError: Cannot read property 'p' of undefined
+2019-10-18 08:37:56,097 ERROR 775 [-/192.168.50.89/-/1ms GET /classification/goodsDetail] [controller.classification.goodsList] php接口出错，出错接口：{"url":"/index/detail","serverENV":"p"}, 接口参数：{}, 错误信息：TypeError: Cannot read property 'p' of undefined
+2019-10-18 08:38:58,078 ERROR 775 [-/192.168.50.89/-/2ms GET /classification/goodsDetail] [controller.classification.goodsList] php接口出错，出错接口：{"url":"/index/detail","serverENV":"p"}, 接口参数：{}, 错误信息：TypeError: Cannot read property 'p' of undefined

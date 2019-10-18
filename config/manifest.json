@@ -1,0 +1,89 @@
+{
+  "404/404.js": "/public/js/chunk/404/404.js",
+  "classification/category.js": "/public/js/chunk/classification/category.js",
+  "classification/district.js": "/public/js/chunk/classification/district.js",
+  "classification/goodsDetail.js": "/public/js/chunk/classification/goodsDetail.js",
+  "classification/goodsList.js": "/public/js/chunk/classification/goodsList.js",
+  "common.js": "/public/js/chunk/common.js",
+  "home/index.js": "/public/js/chunk/home/index.js",
+  "runtime.js": "/public/js/runtime.js",
+  "test/test.js": "/public/js/chunk/test/test.js",
+  "img/404_1.png": "/public/img/404_1.png",
+  "img/ico_kf.png": "/public/img/ico_kf.png",
+  "img/ico_loading.png": "/public/img/ico_loading.png",
+  "img/ico_most.png": "/public/img/ico_most.png",
+  "img/ico_sp.png": "/public/img/ico_sp.png",
+  "img/ico_top.png": "/public/img/ico_top.png",
+  "img/noCommodity.png": "/public/img/noCommodity.png",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "404/404.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/404/404.js"
+      ],
+      "css": []
+    },
+    "classification/category.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/classification/category.js"
+      ],
+      "css": []
+    },
+    "classification/district.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/classification/district.js"
+      ],
+      "css": []
+    },
+    "classification/goodsDetail.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/classification/goodsDetail.js"
+      ],
+      "css": []
+    },
+    "classification/goodsList.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/classification/goodsList.js"
+      ],
+      "css": []
+    },
+    "home/index.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/home/index.js"
+      ],
+      "css": []
+    },
+    "test/test.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/test/test.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}
